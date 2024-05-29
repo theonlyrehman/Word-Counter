@@ -19,3 +19,5 @@ const word = answer.sentence.trim().split(" ")
 console.log(word);
 
 console.log(`Your sentence word count is ${word.length}`);
+
+//* THE END
